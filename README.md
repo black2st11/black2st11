@@ -8,8 +8,8 @@
 - 🌱 현재 Python, Django 를 더욱 더 공부하고 있는 중 입니다.
 - 📫 제 이메일은 black2st11@gmail.com 입니다.
 
-__TO DO LIST__
--   [ ] Short URL 만들기 (세부적인 부분만 완료하면 종료)
+__2022 TO DO LIST__
+-   [x] Short URL 만들기 (세부적인 부분만 완료하면 종료)
 -   [ ] 네이버 스마트 스토어 자동화 (어머니의 의뢰)
 -   [ ] 개인 프로젝트 작업 (가명 : 픽업)
 -   [x] 개인 블로그 작업 (Next, Django)
