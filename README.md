@@ -3,6 +3,7 @@
 - ⏰ 현재 회사 다니면서 개인적으로 공부 중입니다. 
 - 📫 제 이메일은 black2st11@gmail.com 입니다.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/black2st11/)
 
 
 <!---
